@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Console"
+  id="myeclipse.1502941998855"
+  context-root="/Console"
+  j2ee-spec="5.0"
+  archive="Console.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,12 @@
+@CHARSET "utf-8";
+.sitemap,.toolbar,.datagrid{
+	background:#fff;
+	margin-bottom:1em;
+	padding:1em;
+}
+.sitemap li,.toolbar li{
+	float:left;
+}
+.sitemap toolbar li.right{
+	float:right;
+}

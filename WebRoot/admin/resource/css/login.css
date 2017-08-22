@@ -1,0 +1,16 @@
+/*logintop*/
+.logintop{position:absolute;top: 35px;right:62px;width: 156px;height: 29px;color: #fff;font-size: 14px}
+.logintop li{display: inline-block;margin-right: 10px}
+.logintop li a{color: #fff}
+/*loginmain*/
+.loginmain{position:absolute;top:200px;width: 515px;height:442px;color: #fff;right: 710px;text-align: center}
+.loginmain h1{margin-top: 31px;font-size:35px;letter-spacing: 3px;font-weight: normal;}
+.loginmain p{margin-top: 8px;}
+.loginmain ul{margin-top: 19px;}
+.loginmain ul li input[type="text"],input[type="password"]{text-indent:1em;width:498px;height: 48px;border: 2px solid #5cb5e1;background-color: #0b83b8;border-radius: 30px;margin-top: 45px;font-size: 22px;color: #fff}
+.loginmain ul li input[type="submit"]{border:none;width: 42px;height: 42px;border-radius: 21px;background-color:#4fcffe;color: #fff;font-weight: bolder;font-size: 36px;position: absolute;right: 13px;top: 354.5px;text-align: center}
+/*loginfoot*/
+.loginfoot{width: 556px;height: 31px;position: absolute;bottom: 77px;right: 625px;color: #b9d7f1}
+.loginfoot ul{width: 100%}
+.loginfoot ul li{float: left;color: #fff;font-size: 14px;margin-right: 30px;}
+.loginfoot ul li a{color: #b9d7f1;}
